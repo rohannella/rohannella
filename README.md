@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohannella
 - 👀 I’m interested in ... TENNIS, SKIING, PROGRAMMING, MATH, SCIENCE, TRAVELLING, PHOTOGRAPHY
-- 🌱 I’m currently learning ... jQuery
+- 🌱 I’m currently learning ... jQuery and react.js
 - 💞️ I’m looking to collaborate on ... A ROBOTICS WEBPAGE THAT IS CURRENTLY BEING CODED IN CSS, HTML & JS
 - 📫 How to reach me ... how bout nah
 
