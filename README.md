@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohannella
-- 👀 I’m interested in ... TENNIS, SKIING, PROGRAMMING, MATH, SCIENCE, TRAVELLING, PHOTOGRAPHY
+- 👀 I’m interested in ... Skiing, Programming, Linear Algebra
 - 🌱 I’m currently learning ... jQuery and react.js
-- 💞️ I’m looking to collaborate on ... A ROBOTICS WEBPAGE THAT IS CURRENTLY BEING CODED IN CSS, HTML & JS
+- 💞️ I ... bought an '83 cutlass for the weekend 
 - 📫 How to reach me ... how bout nah
 
 <!---
